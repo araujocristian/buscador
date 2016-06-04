@@ -40,7 +40,7 @@ if(isset($_GET['q'])){
 		<title> Buscador </title>
 		
 	</head>
-	<body bgcolor=#F0F0F0 text=#000000> <!Dsigner do Buscador>
+	<body bgcolor=#F0F0F0 text=#000000> <!Designer do Buscador>
 		<h1 align="center"><font color="#00000" face="Slalom,Murphy Script,Arial">Buscador</font></h1>
 		<form action="buscador.php" method="get">
 		<center><br></br>
