@@ -12,5 +12,7 @@ Elasticsearch-php: https://www.elastic.co/guide/en/elasticsearch/client/php-api/
 
 Foram criadas duas páginas, “indexar.php” e “buscador.php”. A primeira será utilizada para indexar novos itens, com duas entradas “Titulo” e “Tipo”. A segunda é pagina do buscador, onde será feita a busca e também onde serão apresentados os resultados.
 
+Foi feita uma interface bem simples para o buscador.
+
 #Considerações
 O desafio foi ótimo para desenvolver minhas habilidades em programação, tive que aprender uma nova linguagem e como funcionam novas ferramentas. Sempre gostei bastante de desafios e esse me mostrou que estou pronto para aprender e desenvolver novas coisas em pouco tempo hábil.
