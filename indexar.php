@@ -32,7 +32,7 @@ if(!empty($_POST)){
 		<title> Indexador </title>
 		
 	</head>
-	<body bgcolor=#F0F0F0 text=#000000> <!Dsigner do Indexador>
+	<body bgcolor=#F0F0F0 text=#000000> <!Designer do Indexador>
 		<h1 align="center"><font color="#00000" face="Slalom,Murphy Script,Arial">Indexador</font></h1>
 		<form action="buscador.php" method="get">
 		<center><br></br>
