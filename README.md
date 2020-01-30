@@ -1,4 +1,4 @@
-# Desafio Search Engine por: CRISTIAN ARAUJO
+<h1 align="center">Desafio Search Engine por: CRISTIAN ARAUJO</h1>
 
 De antemão gostaria de agradecer a oportunidade de participar desse processo seletivo. Nunca tinha programado em PHP antes e para mim foi um desafio ainda maior, aprender sobre a linguagem e aprender como resolver o desafio proposto. 
 
